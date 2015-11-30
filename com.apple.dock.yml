@@ -1,0 +1,16 @@
+com.apple.dock:
+  killall: Dock
+  keys:
+    autohide:
+      summary: Automatically hide and show the Dock
+      type: bool
+      default: false
+
+    tilesize:
+      summary: The size of the Dock
+      type: float
+      min: 16
+      max: 128
+      default: 64
+
+
