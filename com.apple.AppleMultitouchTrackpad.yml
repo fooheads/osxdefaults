@@ -1,0 +1,7 @@
+com.apple.AppleMultitouchTrackpad:
+  keys:
+    Clicking:
+      summary: Tap to click
+      type: bool
+      default: false
+

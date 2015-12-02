@@ -1,0 +1,8 @@
+com.apple.driver.AppleBluetoothMultitouch.trackpad:
+  keys:
+    Clicking:
+      summary: Tap to click
+      type: bool
+      default: false
+
+
