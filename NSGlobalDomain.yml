@@ -1,0 +1,14 @@
+NSGlobalDomain:
+  keys:
+    InitialKeyRepeat: 
+      summary: Keyboard delay until repeat 
+      desc: How long to wait before repeating characters when a key is held down 
+      type: int
+      unit: ms
+    KeyRepeat: 
+      summary: Keyboard key repeat 
+      desc: How quickly characters repeat when a key is held down 
+      type: int 
+      unit: ms
+
+

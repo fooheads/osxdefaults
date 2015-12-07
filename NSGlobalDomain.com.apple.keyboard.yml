@@ -1,0 +1,7 @@
+NSGlobalDomain.com.apple.keyboard:
+  keys:
+    fnState: 
+      summary: Use all F1, F2, etc. keys as standard function keys
+      desc: When this option is selected, press the Fn key to use the special features printed on each key.
+      type: bool
+      default: false
